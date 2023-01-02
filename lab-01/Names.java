@@ -4,7 +4,7 @@
 // Prints a list of student names with their hometowns and intended major
 // *****************************************************************************
 public class Names {
-  public static void main (String[] args) {
+  public static void main(String[] args) {
     System.out.println();
     System.out.println(" \tName\t\tHometown") ;
     System.out.println("\t====\t\t========");
