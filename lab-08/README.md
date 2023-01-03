@@ -1,4 +1,4 @@
-# Lab 7, CS 114, Fundamentals of Computing I
+# Lab 8, CS 114, Fundamentals of Computing I
 
 Remember **not** to work in this repository. Copy any files you need from this repo into another folder, then work from there.
 
@@ -36,5 +36,3 @@ Replace the dots with a `faceCard` variable.
 A two card hand: (print `card1` and `card2`)
 Hand value: (print the sum of the face values of the two cards)
 ```
-
----
