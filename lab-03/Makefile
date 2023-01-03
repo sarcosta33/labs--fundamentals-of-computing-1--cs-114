@@ -1,4 +1,4 @@
-filename = Dice
+filename = Deli
 
 all: compile run
 
