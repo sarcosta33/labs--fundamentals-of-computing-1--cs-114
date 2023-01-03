@@ -1,4 +1,4 @@
-# Lab 4, CS 114, Fundamentals of Computing I
+# Lab 5, CS 114, Fundamentals of Computing I
 
 Remember **not** to work in this repository. Copy any files you need from this repo into another folder, then work from there.
 
