@@ -4,9 +4,22 @@ Remember **not** to work in this repository. Copy any files you need from this r
 
 ---
 
-## 1. Rolling Dice
+## 1. Formatting Output
+File `Deli.java` contains a partial program that computes the cost of buying an item at the deli. Do the following:
 
-Write a complete Java program that simulates the rolling of a pair of dice. (Use the enclosed `Dice.java` program to start.) For each die in the pair, the program should generate a random number between 1 and 6 (inclusive). It should print out the result of the roll for each die and the total roll (the sum of the two dice), all appropriately labeled. You must use the `Random` class. The `RandomNumbers` program in listing 3.2 of the text may be helpful.
+1. Study the program to understand what it does.
+2. Add `import` statements to import the `DecimalFormat` and `NumberFormat` classes.
+3. Add the statement to declare `money` to be a `NumberFormat` object as specified in the comment.
+4. Add the statement to declare `fmt` to be a `DecimalFormat` object as specified in the comment.
+5. Add the statements to print a label in the following format (the numbers in the example output are correct for input of $4.25 per pound and 41 ounces). Use the formatting object money to print the unit price and total price and the formatting object `fmt` to print the weight to 2 decimal places.
+```
+   ***** CSDeli *****
+
+   Unit Price: $4.25 per pound
+   Weight: 2.56 pounds
+
+   TOTAL: $10.89
+```
 
 ---
 
