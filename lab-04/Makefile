@@ -1,4 +1,4 @@
-filename = CHANGE_THIS_TO_THE_NAME_OF_YOUR_JAVA_FILE
+filename = Dice
 
 all: compile run
 
